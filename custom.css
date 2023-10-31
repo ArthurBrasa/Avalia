@@ -1,0 +1,13 @@
+.x {
+    border: 1px solid red;
+}
+
+.bg {
+    background-color: #49BBBD;
+}
+
+.logo {
+    font-family: 'popins', sans-serif;
+    font-style: bold;
+    font-size: x-large;
+}
